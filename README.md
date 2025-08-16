@@ -18,7 +18,7 @@ Follow these three simple steps to get the snake on your profile.
 
    * *Tip: When you type `.github/` in the filename box, GitHub will automatically create the folder.*
 
-3. Copy the code from the `snake.yml` file in this repository (or just [click here to view it](https://www.google.com/search?q=https://github.com/YourUsername/your-repo-name/blob/main/snake.yml)) and paste it into the new file you just created.
+3. Copy the code from the `snake.yml` file in this repository and paste it into the new file you just created.
 
 ### Step 2: Run the Action
 
