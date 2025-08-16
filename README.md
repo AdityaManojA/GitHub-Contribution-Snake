@@ -4,6 +4,8 @@ A simple, easy-to-follow guide to add the animated snake game to your GitHub pro
 
 This repository provides the necessary GitHub Action workflow file and instructions to get you set up in less than 5 minutes.
 
+![Demo Screenshot](/screenshot.png)
+
 ## How to Use This
 
 Follow these three simple steps to get the snake on your profile.
