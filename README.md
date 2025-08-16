@@ -31,5 +31,28 @@ Wait about a minute for the action to complete. When you see a green checkmark, 
 ### Step 3: Add the Snake to Your README
 
 You're all set! Now, just copy one of the following lines into your profile's `README.md` file to display the animation.
+<br>
 
-**Dark Mode Version (Recommended for dark themes):**
+**Light Mode Version(Recommended for light  themes):**
+```
+[![My GitHub contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/output/snake.svg)](https://github.com/YOUR_USERNAME)
+```
+<br>
+
+**Light Mode Version(Recommended for light  themes):**
+
+```
+[![My GitHub contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/output/snake-dark.svg)](https://github.com/YOUR_USERNAME)
+```
+<br>
+
+**Important:**
+Remember to replace `YOUR_USERNAME` with your actual GitHub username!
+
+## Troubleshooting
+
+* **Action Fails with `exit code 128`:** This means the action didn't have permission to write the new `snake.svg` file to your repository. The included `snake.yml` file already contains the fix (`permissions: write-all`), so you shouldn't encounter this if you copy the file correctly.
+
+* **Image Shows as a Broken Link:** This usually means the URL in your README is incorrect. Double-check that you've replaced `YOUR_USERNAME` in the link and that the path is correct.
+
+Enjoy your new contribution snake!
